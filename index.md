@@ -1,2 +1,0 @@
-> [!tip] Pooh
-> pooh bear
