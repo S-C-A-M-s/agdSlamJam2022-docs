@@ -1,5 +1,5 @@
 
-# Project Honeypot #
+# Project Honeypot
 
 Official Fandom Wiki
 
