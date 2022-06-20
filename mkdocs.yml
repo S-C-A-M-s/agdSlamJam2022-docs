@@ -1,5 +1,6 @@
-
+site_url: 
 site_name: Project Honeypot Wiki
+use_directory_urls: true
 theme:
     name: readthedocs
     custom_dir: custom_theme/
@@ -8,3 +9,13 @@ theme:
     locale: en
     sticky_navigation: true
     prev_next_buttons_location: bottom
+extra_css:
+    - css/extra.css
+markdown_extensions:
+    - admonition
+nav:
+    - Github: https://github.com/S-C-A-M-s/agdSlamJam2022-docs
+    - '---.md'
+    - Introduction: 'index.md'
+    - Features: 'page2.md'
+    
